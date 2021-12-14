@@ -1,2 +1,3 @@
 # helloworld
-hello word project
+This is a begginer's project to github.
+bear with me
